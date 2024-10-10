@@ -14,25 +14,25 @@ Verificação do tamanho da mensagem (máximo de 60 caracteres).
 
 ## 📝 Como Usar
 
-# 1. Entrada
+### 1. Entrada
 
 Digite caracteres para ser criptografada. A mensagem será cifrada usando a chave "CRIPTOGRAFIA".
 
-# 2. Criptografia
+### 2. Criptografia
 
 O programa irá exibir a mensagem criptografada usando o operador XOR.
 
-# 3. Descriptografia
+### 3. Descriptografia
 
 Após a criptografia, o programa também descriptografará a mensagem, exibindo a versão original.
 
-# 4. Verificação
+### 4. Verificação
 
 O programa inclui uma verificação para garantir que a mensagem tenha no máximo 60 caracteres.
 
 ## 🛠️ Como Compilar e Executar
 
-# Compilação
+### Compilação
 
 IDE:
 
@@ -46,7 +46,7 @@ Terminal:
 gcc criptografia.c -o criptografia
 ```
 
-# Execução
+### Execução
 Após a compilação, execute o programa com o seguinte comando:
 
 ```bash
