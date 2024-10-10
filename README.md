@@ -12,3 +12,11 @@ Criptografia de mensagens utilizando XOR com uma chave de 12 caracteres.
 Descriptografia de mensagens criptografadas para recuperar o texto original.
 Verificação do tamanho da mensagem (máximo de 60 caracteres).
 Exibe a mensagem criptografada como valores numéricos e descriptografada como texto legível.
+
+## 💻 Execução
+
+Estrutura do Código
+
+```bash
+a
+```
