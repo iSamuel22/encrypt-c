@@ -60,10 +60,5 @@ Em seguida, insira a mensagem que deseja criptografar.
 - O programa suporta apenas mensagens de até 60 caracteres.
 - O algoritmo usa uma chave fixa de 12 caracteres, "CRIPTOGRAFIA", o que torna a segurança limitada para uso em sistemas complexos.
 
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-
 
 
